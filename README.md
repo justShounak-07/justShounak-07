@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=8A5CF6&center=true&vCenter=true&width=900&lines=%24+whoami;Shounak+Pal;%24+cat+status.txt;Building+in+public+%F0%9F%9A%80;%24+./run+--mode%3Dgrind" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=8A5CF6&center=true&vCenter=true&width=900&lines=%24+Welcome;%24+whoami;Shounak+Pal;;Building+in+public+%F0%9F%9A%80;" />
 
 <br>
 
@@ -12,18 +12,14 @@
 
 <br>
 
-```bash
-┌──(shounak㉿localhost)-[~]
-└─$ cat about.txt
-```
 
 ```yaml
-name: Shounak Pal
-role: B.Tech CSE (AI/ML) — 2nd Year → 3rd Year
-based_in: Delhi, India
-focus: Frontend Development, AI/ML, No-Code Automation
-mode: shipping small, learning fast, applying relentlessly
-mindset: "mediocre learner, refuses to stay that way"
+Name: Shounak Pal
+Current Role: Pursuing B.Tech CSE (AI)
+Based_in: Delhi, India
+Focus: Frontend Development, AI/ML, No-Code Automation
+Hobbies off_duty: Photography, Editing, Content creation (insta, YT)
+Mindset: "Refuses to stay away, Always Curious!"
 ```
 
 ---
@@ -32,9 +28,8 @@ mindset: "mediocre learner, refuses to stay that way"
 
 ```diff
 + Actively hunting: Developer Internships (Frontend / AI-ML)
-+ Currently building: 30-day Frontend Roadmap → HTML/CSS → JS → React
++ Currently building: 
 + Currently shipping: Personal projects to make the portfolio undeniable
-+ Daily habit: Learn in public, log progress, repeat
 ```
 
 <br>
@@ -43,7 +38,7 @@ mindset: "mediocre learner, refuses to stay that way"
 
 **Landing a High-Impact Dev Internship**
 
-`[████████████████░░░░░░░░]` **68%**
+`[████████████████░░░░░░░░]` **70%**
 
 </div>
 
@@ -71,7 +66,8 @@ mindset: "mediocre learner, refuses to stay that way"
 **Exploring**
 
 ![n8n](https://img.shields.io/badge/n8n-2E2E4A?style=for-the-badge&logo=n8n&logoColor=4A90D9)
-![AI/ML](https://img.shields.io/badge/AI%2FML-2E2E4A?style=for-the-badge&logo=tensorflow&logoColor=8A5CF6)
+![Agentic AI](https://img.shields.io/badge/AI%2FML-2E2E4A?style=for-the-badge&logo=tensorflow&logoColor=8A5CF6)
+![UI/UX](https://img.shields.io/badge/AI%2FML-2E2E4A?style=for-the-badge&logo=tensorflow&logoColor=8A5CF6)
 
 </div>
 
@@ -96,7 +92,7 @@ $ describe noteshelf
 
 **Stack:** `HTML` `CSS` `JavaScript`
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-→-6C5CE7?style=flat-square)](https://github.com/justShounak-07)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-→-6C5CE7?style=flat-square)](https://github.com/justShounak-07/Noteshelf)
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +110,7 @@ $ describe portfolio
 
 **Stack:** `HTML` `Tailwind CSS`
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-→-4A90D9?style=flat-square)](https://github.com/justShounak-07)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-→-4A90D9?style=flat-square)](https://github.com/justShounak-07/portfolio-site)
 
 </td>
 </tr>
@@ -124,39 +120,13 @@ $ describe portfolio
 
 ---
 
-## 📡 `> git log --stats`
+
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=justShounak-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A5CF6&icon_color=4A90D9&text_color=C9C9E8"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justShounak-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A5CF6&text_color=C9C9E8"/>
+## `> connect --with-me = Shounak`
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=justShounak-07&theme=tokyonight&hide_border=true&background=0D1117&ring=8A5CF6&fire=4A90D9&currStreakLabel=8A5CF6"/>
-
-</div>
-
----
-
-## 🗺️ `> roadmap --current`
-
-```text
-[✓] HTML / CSS fundamentals
-[✓] JavaScript core concepts
-[~] React fundamentals          <- in progress
-[ ] Tailwind + React integration
-[ ] Portfolio-grade capstone project
-[ ] Internship applications      <- running in parallel, always
-```
-
----
-
-<div align="center">
-
-## `> connect --with=shounak`
-
-**Open to internships, collaborations, and good problems to solve.**
+**Open to internships, collaborations, and real_world problems to solve.**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shounak-pal-8b0859325/)
 [![GitHub](https://img.shields.io/badge/GITHUB-4A90D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justShounak-07)
