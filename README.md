@@ -18,29 +18,21 @@ Name: Shounak Pal
 Current Role: Pursuing B.Tech CSE (AI)
 Based_in: Delhi, India
 Focus: Frontend Development, AI/ML, No-Code Automation
-Hobbies off_duty: Photography, Editing, Content creation (insta, YT)
-Mindset: "Refuses to stay away, Always Curious!"
+Hobbies off_duty: Photography, Editing, Content creation (Insta (@byshounaklens), YT)
+Mindset: "Always Curious! Always Learning! "
 ```
 
 ---
 
-## ⚙️ `> system.status`
+## ⚙️ `> present.status`
 
 ```diff
-+ Actively hunting: Developer Internships (Frontend / AI-ML)
-+ Currently building: 
-+ Currently shipping: Personal projects to make the portfolio undeniable
++ Actively hunting: Web-Developer Internships, Agentic AI
++ Currently shipping: Personal projects to bring my Ideas to reality with the help of TECH
 ```
 
 <br>
 
-<div align="center">
-
-**Landing a High-Impact Dev Internship**
-
-`[████████████████░░░░░░░░]` **70%**
-
-</div>
 
 ---
 
@@ -55,12 +47,12 @@ Mindset: "Refuses to stay away, Always Curious!"
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E2E4A?style=for-the-badge&logo=javascript&logoColor=8A5CF6)
 ![React](https://img.shields.io/badge/React-2E2E4A?style=for-the-badge&logo=react&logoColor=4A90D9)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-2E2E4A?style=for-the-badge&logo=tailwindcss&logoColor=8A5CF6)
+![Typescript](https://img.shields.io/badge/TypeScript-2E2E4A?style=for-the-badge&logo=typescript&logoColor=8A5CF6)
 
 **Design & Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-2E2E4A?style=for-the-badge&logo=figma&logoColor=4A90D9)
 ![Canva](https://img.shields.io/badge/Canva-2E2E4A?style=for-the-badge&logo=canva&logoColor=8A5CF6)
-![VSCode](https://img.shields.io/badge/VS_Code-2E2E4A?style=for-the-badge&logo=visualstudiocode&logoColor=4A90D9)
 ![Git](https://img.shields.io/badge/Git-2E2E4A?style=for-the-badge&logo=git&logoColor=8A5CF6)
 
 **Exploring**
