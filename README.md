@@ -89,6 +89,24 @@ $ describe noteshelf
 </td>
 <td width="50%" valign="top">
 
+### 📓 Kali Mandir Society
+
+**A fully deployed devotional website for Temple Society**
+
+```bash
+$ describe noteshelf
+> deployed commercially with domain
+> static website with Payment hadling
+> React-Based application
+```
+
+**Stack:** `HTML` `TailwindCSS` `TypeScript`
+
+[![View Repo](https://github.com/justShounak-07/Ganesh-Nagar-kali-bari.git)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌐 Portfolio Site
 
 **Personal portfolio — built from scratch**
