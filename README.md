@@ -71,18 +71,18 @@ Mindset: "Always Curious! Always Learning! "
 <tr>
 <td width="50%" valign="top">
 
-### 📓 Noteshelf
+### 📓 Recipe_Verse
 
-**A clean, minimal note-taking web app**
+**A clean, minimal Recipe app with React**
 
 ```bash
-$ describe noteshelf
-> Fast, distraction-free note capture
-> Organized, structured layout
+$ describe Kali Mandir Society
+> Designed by Tailwind CSS
+> fetch API for recipes
 > Built to actually be used daily
 ```
 
-**Stack:** `HTML` `CSS` `JavaScript`
+**Stack:** `HTML` `Tailwind` `React` `API`
 
 [![View Repo](https://img.shields.io/badge/VIEW_REPO-→-6C5CE7?style=flat-square)](https://github.com/justShounak-07/Noteshelf)
 
@@ -94,7 +94,7 @@ $ describe noteshelf
 **A fully deployed devotional website for Temple Society**
 
 ```bash
-$ describe noteshelf
+$ describe Kali Mandir Society
 > deployed commercially with domain
 > static website with Payment hadling
 > React-Based application
@@ -102,7 +102,7 @@ $ describe noteshelf
 
 **Stack:** `HTML` `TailwindCSS` `TypeScript`
 
-[![View Repo](https://github.com/justShounak-07/Ganesh-Nagar-kali-bari.git)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-→-6C5CE7?style=flat-square)](https://github.com/justShounak-07/Ganesh-Nagar-kali-bari.git)
 
 </td>
 <td width="50%" valign="top">
