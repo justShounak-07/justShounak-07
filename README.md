@@ -84,7 +84,7 @@ $ describe Kali Mandir Society
 
 **Stack:** `HTML` `Tailwind` `React` `API`
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-→-6C5CE7?style=flat-square)](https://github.com/justShounak-07/Noteshelf)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-→-6C5CE7?style=flat-square)](https://github.com/justShounak-07/recipe_verse_react)
 
 </td>
 <td width="50%" valign="top">
